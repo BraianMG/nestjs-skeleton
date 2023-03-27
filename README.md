@@ -57,11 +57,14 @@ This repository is a skeleton with the bases to start a new API (REST and GraphQ
 
 ### __Features offered by this skeleton__
 
-- Base CRUD
-- Módules:
+<!-- - Base CRUD -->
+- ESLint and Prettier configured
+- Basic file structure defined
+- Environment configured to perform unit tests with Jest and Supertest
+<!-- - Módules:
   - Auth
   - User
-  - Profile
+  - Profile -->
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
