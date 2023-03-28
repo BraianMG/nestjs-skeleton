@@ -19,7 +19,7 @@ services:
     build: 
       context: .
       dockerfile: Dockerfile
-    image: imagaNameForMyApp
+    image: imageNameForMyApp
     container_name: bmgApp
     restart: always # restart the container if it stops
     ports:
